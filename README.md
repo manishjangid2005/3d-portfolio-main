@@ -15,9 +15,8 @@ Welcome to the repository for my personal portfolio website! This is where I sho
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js, React, Tailwind CSS, Shadcn, Aceternity UI
-- **Animations**: GSAP, Framer Motion, Spline Runtime
-- **Misc**: Resend, Socketio, Zod
+- **Frontend**: Next.js, React, Tailwind CSS
+- **Animations**: GSAP, Framer Motion
 
 ## 🚀 Getting Started
 
@@ -31,7 +30,7 @@ Welcome to the repository for my personal portfolio website! This is where I sho
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Naresh-Khatri/Portfolio.git
+    git clone https://github.com/manishjangid2005/3d-portfolio-main.git
     ```
 
 2. Navigate to the project directory:
@@ -65,11 +64,3 @@ This site is deployed on Vercel. For your own deployment, follow these steps:
 1. Push your code to a GitHub repository.
 2. Connect your repository to Vercel.
 3. Vercel will handle the deployment process.
-
-## 🤝 Contributing
-
-If you'd like to contribute or suggest improvements, feel free to open an issue or submit a pull request. All contributions are welcome!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
